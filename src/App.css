@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.App-Content{
+  margin: 20px;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 10s linear;
   height: 180px;
